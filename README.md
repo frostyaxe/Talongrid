@@ -37,9 +37,9 @@ user to set the IP address of selenium grid hub.
    
    
 In order to set the webdrivers for selenium grid node web browser instances, you will have to use the key value pair as shown below.
-* webdriver.chrome.driver = <chromedriver path>
-* webdriver.ie.driver = <Internet Explorer path>
-* webdriver.gecko.driver = <gecko driver path>
+* webdriver.chrome.driver = \<chromedriver path>
+* webdriver.ie.driver = \<Internet Explorer path>
+* webdriver.gecko.driver = \<gecko driver path>
 
 ## Authors
 
